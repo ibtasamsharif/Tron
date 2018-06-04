@@ -4,7 +4,7 @@ Tron Disc is one of the most famous programmable artifact in both the game grid 
 
 # Folder Structures
 
-  - Source Code can be found in the Source Code folder. Disc and charging station has their own folders within source code folder
+  - Source Code can be found in the Source Code folder. Disc and charging station have their own folders within source code directory.
   - Circuit schematics can be found under the Hardware Schematic Folder
   - All the early sketches and design files are in the prototype design folder.
   
